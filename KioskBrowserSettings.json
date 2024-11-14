@@ -10,7 +10,7 @@
   "hide_google_play_services_messages": true,
   "screensaver_urls": "file:///android_asset/start.htm",
   "show_back_icon": false,
-  "kiosk_url": "http://10.10.10.2?kiosk\u003d1#",
+  "kiosk_url": "https://10.110.210.1?kiosk=1#/#%2FBMSCP-B%2F_Common%2FDashboards%2FLevels%2FLevel%201%2F_Common%2FDashboard",
   "use_wide_viewport": true,
   "hyperlink_sound": false,
   "reset_wifi": true,
